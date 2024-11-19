@@ -1,0 +1,4 @@
+.idea
+venv
+data_output/model_output
+data_output/fine_tuned_model

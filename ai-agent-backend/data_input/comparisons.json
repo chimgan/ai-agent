@@ -1,0 +1,22 @@
+[
+  {
+    "product_a": "UltraSound Bluetooth Headphones",
+    "product_b": "BassBoost Wireless Earbuds",
+    "comparison": "The UltraSound Headphones offer over-ear noise cancellation and a 30-hour battery life, ideal for immersive listening. The BassBoost Earbuds are compact and portable, offering convenience for on-the-go use but with shorter battery life."
+  },
+  {
+    "product_a": "SmartWatch Pro X",
+    "product_b": "Fitness Band Lite",
+    "comparison": "The SmartWatch Pro X provides advanced features like GPS, heart rate monitoring, and a vibrant OLED display. The Fitness Band Lite offers essential fitness tracking functions at a more budget-friendly price."
+  },
+  {
+    "product_a": "Gaming Laptop Pro 15",
+    "product_b": "Standard Laptop 14",
+    "comparison": "The Gaming Laptop Pro 15 is equipped with high-end components suitable for gaming and intensive tasks, while the Standard Laptop 14 is designed for everyday use like browsing and office applications."
+  },
+  {
+    "product_a": "4K Ultra HD Action Camera",
+    "product_b": "Full HD Compact Camcorder",
+    "comparison": "The 4K Ultra HD Action Camera is built for high-resolution action shots and is waterproof up to 30 meters. The Full HD Compact Camcorder is better for general video recording with features like optical zoom but lacks waterproofing."
+  }
+]

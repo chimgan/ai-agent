@@ -1,0 +1,10 @@
+{"prompt": "Customer: Can you tell me about the UltraSound Bluetooth Headphones?\nAgent:", "response": "Certainly! The UltraSound Bluetooth Headphones offer active noise cancellation, 30-hour battery life, and Bluetooth 5.0 connectivity.", "accuracy": 95}
+{"prompt": "Customer: Do you have smartwatches with GPS?\nAgent:", "response": "Yes, our SmartWatch Pro X includes GPS functionality along with health tracking features.", "accuracy": 90}
+{"prompt": "Customer: How long does the battery last on the action camera?\nAgent:", "response": "The 4K Ultra HD Action Camera has a battery life of about 2 hours during continuous recording.", "accuracy": 85}
+{"prompt": "Customer: Which headphones are better for travel?\nAgent:", "response": "For travel, I recommend the UltraSound Bluetooth Headphones because of their noise cancellation and long battery life.", "accuracy": 88}
+{"prompt": "Customer: What's the difference between the SmartWatch Pro X and the Fitness Band Lite?\nAgent:", "response": "The SmartWatch Pro X offers more advanced features like GPS and an OLED display, while the Fitness Band Lite is more basic and affordable.", "accuracy": 80}
+{"prompt": "Customer: Can you compare the Gaming Laptop Pro 15 and a standard laptop?\nAgent:", "response": "The Gaming Laptop Pro 15 has high-end specs suitable for gaming, whereas a standard laptop is better for everyday tasks.", "accuracy": 92}
+{"prompt": "Customer: Do you offer drone cameras?\nAgent:", "response": "I'm not sure about that. Let me check for you.", "accuracy": 40}
+{"prompt": "Customer: How do I track my order?\nAgent:", "response": "You can track your order using the tracking link sent to your email after purchase.", "accuracy": 98}
+{"prompt": "Customer: What is your return policy?\nAgent:", "response": "We offer a 30-day return policy for unused items in their original packaging.", "accuracy": 95}
+{"prompt": "Customer: Do the UltraSound Headphones come in red?\nAgent:", "response": "Currently, they are available in Black, Silver, and Blue.", "accuracy": 90}
